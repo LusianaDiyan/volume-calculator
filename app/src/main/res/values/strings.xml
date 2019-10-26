@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ApkVolume</string>
+    <string name="title">Volume Persegi Panjang</string>
+
+    <string name="lebar">Lebar</string>
+    <string name="panjang">Panjang</string>
+    <string name="tinggi">Tinggi</string>
+
+    <string name="hitung">Hitung</string>
+    <string name="volume">Volume</string>
+</resources>
